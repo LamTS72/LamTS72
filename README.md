@@ -28,8 +28,13 @@
 
 ## Skills:
 <p align="center">
+  <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/>
  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
  <img src="https://img.icons8.com/fluency/48/000000/rstudio.png"/>
+  <img src="https://img.icons8.com/color/48/000000/haskell.png"/>
+  <img src="https://img.icons8.com/glyph-neue/64/000000/github.png"/>
 </p>
 
 <table style="width:100%;">
