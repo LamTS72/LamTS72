@@ -1,4 +1,4 @@
-
+## Introduction
 <h1 align="center">Helu 👋, I'm TRINH SON LAM</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A coder with passionating DATA SCIENCE and AI </h3>
@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **DATA SCIENCE and AI and MACHINE LEARNING**
 
 
-## 📫 Contact:
+## Contact:
 
 
 <p align="center">
@@ -52,7 +52,7 @@
   </tr>
 </table>
 
-# Certificates:
+## Certificates:
 
 I think i have some weaknesses in my life and studying at university. So i just have some certificates about academic:
 
