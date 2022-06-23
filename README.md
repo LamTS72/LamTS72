@@ -6,7 +6,7 @@
 
 - ✍ I'm a student of: [Ho Chi Minh city University of Technology](https://www.hcmut.edu.vn/vi) (HCMUT).
 
-- 🌱 I’m currently learning **DATA SCIENCE and AI and MACHINE LEARNING**
+- 🌱 I’m currently learning **DATA SCIENCE and MACHINE LEARNING**
 
 
 ## Contact:
