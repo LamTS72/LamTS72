@@ -1,7 +1,7 @@
 ## Introduction
 <h1 align="center">Hello 👋, I'm TRINH SON LAM</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A coder with passionating DATA SCIENCE and AI </h3>
+<h3 align="center">A coder with passionating DATA SCIENCE and MACHINE LEARNING </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LamTS72" alt="LamTS72" /> <img src="https://badges.pufler.dev/repos/LamTS72" alt="LamTS72" /> </p>
 
 - ✍ I'm a student of: [Ho Chi Minh city University of Technology](https://www.hcmut.edu.vn/vi) (HCMUT).
