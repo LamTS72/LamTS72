@@ -36,7 +36,7 @@
   <img src="https://img.icons8.com/fluency/48/000000/rstudio.png"/>
   <img src="https://img.icons8.com/color/48/000000/haskell.png"/>
   <img src="https://img.icons8.com/glyph-neue/64/000000/github.png"/>
-   <img src="https://icons8.com/icon/uHZV38hOzCFA/sql"/>
+  <img src="https://img.icons8.com/external-bearicons-outline-color-bearicons/64/null/external-SQL-file-extension-bearicons-outline-color-bearicons.png"/>
 </p>
 
 <table style="width:100%;">
