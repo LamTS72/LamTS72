@@ -53,7 +53,9 @@
 
 ## Certificates:
 *IELTS Academic with WRITTING 6.5.
+
 *TOP35 Presentation Contest of HCMUT.
+
 *GPA 3.2/4(currently).
 
 
