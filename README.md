@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm TRINH SON LAM</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A coder with passionating DATA SCIENCE and MACHINE LEARNING </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=LamTS72" alt="LamTS72" /> <img src="https://badges.pufler.dev/repos/LamTS72" alt="LamTS72" /> </p>
+
 
 - ✍ I'm a student of: [Ho Chi Minh city University of Technology](https://www.hcmut.edu.vn/vi) (HCMUT).
 
@@ -42,7 +42,7 @@
 <table style="width:100%;">
   <tr>
       <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamTS72&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="LamTS72" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamTS72&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="LamTS72" width="200%"/>
     </td>
     <td>
       <p align="center"> 
