@@ -52,9 +52,8 @@
 </table>
 
 ## Certificates:
+*IELTS Academic with WRITTING 6.5.
+*TOP35 Presentation Contest of HCMUT.
+*GPA 3.2/4(currently).
 
-I think i have some weaknesses in my life and studying at university. So i just have some certificates about academic:
-
-*IELTS with WRITTING 6.5 ,it is not impressive for others but i think it is enough for writting reports that are related 
-English
 
