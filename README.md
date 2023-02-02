@@ -13,7 +13,7 @@
 
 <p align="center">
 
-  <a href="https://www.facebook.com/lam.smile.haha/" alt="Facebook">
+  <a href="https://www.facebook.com/lamsmilehi/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/LamTs72" alt="Github">
