@@ -1,8 +1,7 @@
 ## Introduction
-<h1 align="center">Hello 👋, I'm TRINH SON LAM</h1>
+<h1 align="center">Hello 👋, I'm LAM-TRINH(CHESSMAN)</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A coder with passionating DATA SCIENCE and MACHINE LEARNING </h3>
-
+<h3 align="center">A programmer with passionating AI, DATA SCIENCE and MACHINE LEARNING </h3>
 
 - ✍ I'm a student of: [Ho Chi Minh city University of Technology](https://www.hcmut.edu.vn/vi) (HCMUT).
 
@@ -39,7 +38,7 @@
   <img src="https://img.icons8.com/external-bearicons-outline-color-bearicons/64/null/external-SQL-file-extension-bearicons-outline-color-bearicons.png"/>
 </p>
 
-<table style="width:100%;">
+<table style="width:200%;">
   <tr>
       <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamTS72&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="LamTS72" width="200%"/>
