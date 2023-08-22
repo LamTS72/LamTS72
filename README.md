@@ -1,11 +1,10 @@
-## Introduction
+![image](https://github.com/LamTS72/LamTS72/assets/76722310/1aabf235-8d3f-4d77-bad3-8172acbc6cd1)## Introduction
 <h1 align="center">Hello 👋, I'm LAM-TRINH(CHESSMAN)</h1>
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A programmer with passionating AI, DATA SCIENCE and MACHINE LEARNING </h3>
+<h3 align="center">A programmer focus on AI. </h3>
 
-- ✍ I'm a student of: [Ho Chi Minh city University of Technology](https://www.hcmut.edu.vn/vi) (HCMUT).
+- ✍ Senior student of: [Ho Chi Minh city University of Technology](https://www.hcmut.edu.vn/vi) (HCMUT).
 
-- 🌱 I’m currently learning and researching **AI,DATA SCIENCE and MACHINE LEARNING**
+- 🌱Learning and researching **AI and AIOT(Artificial Intelligence of Things)**
 
 
 ## Contact:
@@ -16,9 +15,6 @@
   <a href="https://www.facebook.com/lamsmilehi/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/LamTs72" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
   <a href="mailto:sonlam7220@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/>
   </a>
@@ -26,16 +22,15 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/>
- <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/arduino.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/rstudio.png"/>
   <img src="https://img.icons8.com/color/48/000000/haskell.png"/>
-  <img src="https://img.icons8.com/glyph-neue/64/000000/github.png"/>
-  <img src="https://img.icons8.com/external-bearicons-outline-color-bearicons/64/null/external-SQL-file-extension-bearicons-outline-color-bearicons.png"/>
+  <img src="https://img.icons8.com/sf-regular/48/github.png"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png"/>
 </p>
 
 <table style="width:200%;">
