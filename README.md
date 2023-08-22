@@ -1,4 +1,4 @@
-![image](https://github.com/LamTS72/LamTS72/assets/76722310/1aabf235-8d3f-4d77-bad3-8172acbc6cd1)## Introduction
+## Introduction
 <h1 align="center">Hello 👋, I'm LAM-TRINH(CHESSMAN)</h1>
 <h3 align="center">A programmer focus on AI. </h3>
 
