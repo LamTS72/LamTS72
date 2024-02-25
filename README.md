@@ -51,6 +51,6 @@
 
 *TOP35 Presentation Contest of HCMUT.
 
-*GPA 3.2/4(currently).
+*GPA 3.4/4(Very Good).
 
 
