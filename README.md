@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm LAM-TRINH(CHESSMAN)</h1>
 <h3 align="center">A programmer focus on AI, learning about Machine Learning, Deep Learning and applying AI for Embedded System, IOT.  </h3>
 
-- ✍ Senior student of: [Ho Chi Minh city University of Technology](https://www.hcmut.edu.vn/vi) (HCMUT).
+- ✍ Master student of: [Ho Chi Minh city University of Technology](https://www.hcmut.edu.vn/vi) (HCMUT).
 
 - 🌱Learning and researching **AI and AIOT(Artificial Intelligence of Things)**
 
