@@ -4,7 +4,7 @@
 
 - ✍ Master student of: [Ho Chi Minh city University of Technology](https://www.hcmut.edu.vn/vi) (HCMUT).
 
-- 🌱Learning and researching **AI and AIOT(Artificial Intelligence of Things)**
+- 🌱Learning and researching **AI and AIOT(Artificial Intelligence of Things) incuding Embedded System and Internet of Things**
 
 
 ## Contact:
