@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5612AQEReRdkC5K3_A/article-cover_image-shrink_600_2000/0/1702441745439?e=2147483647&v=beta&t=Um64qKYNX1Ag9TFsB4hEu-t48Ycpiko32lNtneaQWmM)]()
 <h1 align="center">Hi 👋, I'm LAM-TRINH(CHESSMAN)</h1>
-<h3 align="center">A passionate frontend developeA programmer focus on AI, learning about Machine Learning, Deep Learning and applying AI for Embedded System, IOT.r from India</h3>
+<h3 align="center">A passionate frontend developeA programmer focus on AI, learning about Machine Learning, Deep Learning and applying AI for Embedded System, IOT.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamts72&label=Profile%20views&color=0e75b6&style=flat" alt="lamts72" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamts72" alt="lamts72" /></a>
