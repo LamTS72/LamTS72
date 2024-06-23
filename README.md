@@ -11,10 +11,7 @@
 
 
 <p align="center">
-
-  <a href="https://www.facebook.com/lamsmilehi/" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
+ 
   <a href="mailto:sonlam7220@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/>
   </a>
