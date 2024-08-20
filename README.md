@@ -29,8 +29,15 @@
 
 ![Git](https://img.shields.io/badge/Git-black?logo=git) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux) ![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-<p><img align="left" width="400" height="80%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=lamts72&show_icons=true&locale=en&layout=compact" alt="lamts72" /></p>
+<div style="display: flex; justify-content: space-between;">
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lamts72&show_icons=true&locale=en&layout=compact" alt="lamts72" />
+    </div>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=lamts72&show_icons=true&locale=en" alt="lamts72" />
+    </div>
+</div>
+<div style="text-align: center; margin-top: 20px;">
+    <img width="400" height="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=lamts72&" alt="lamts72" />
+</div>
 
-<p><img align="right" width="400" height="80%" src="https://github-readme-stats.vercel.app/api?username=lamts72&show_icons=true&locale=en" alt="lamts72" /></p>
-
-<p><img align="center" width="400" height="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=lamts72&" alt="lamts72" /></p>
