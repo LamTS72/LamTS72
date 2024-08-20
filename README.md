@@ -1,32 +1,36 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5612AQEReRdkC5K3_A/article-cover_image-shrink_600_2000/0/1702441745439?e=2147483647&v=beta&t=Um64qKYNX1Ag9TFsB4hEu-t48Ycpiko32lNtneaQWmM)]()
-<h1 align="center">Hi 👋, I'm LAM-TRINH(CHESSMAN)</h1>
-<h3 align="center">A programmer focus on AI, learning about Machine Learning, Deep Learning and applying AI for Embedded System, IOT.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lamts72&label=Profile%20views&color=0e75b6&style=flat" alt="lamts72" /> </p>
+### Hello👋, I'm LAM-TRINH(CHESSMAN) </h2>
+<p><em>Joint Master funding at <a href="https://hcmut.edu.vn/">Ho Chi Minh city University of Technology(HCMUT)</a>  and I focus on AI, learning about Machine Learning, Deep Learning and applying AI for Embedded System, IOT.</em></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamts72" alt="lamts72" /></a>
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
-</p>
 
-- 🔭 I’m master student [Ho Chi Minh city University of Technology(HCMUT)](https://hcmut.edu.vn/)
+#### 🌐 Socials
+<!-- [![GitHub LamTS72](https://img.shields.io/github/followers/LamTS72?label=follow&style=social)](https://github.com/LamTS72) -->
+[![Linkedin: SonLam](https://img.shields.io/badge/-SonLam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/lam-trinh-son-b09094204)](https://www.linkedin.com/in/lam-trinh-son-b09094204/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/lamsmilehi/) 
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+#### 💫About Me :
+- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> I’m currently research deeper **Machine Learning, Deep Learning** 👋👋👋
+- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20">  I’m looking to collaborate on **Artificial Intelligence** special on NLP 🤣🤣🤣
+- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> Fun facts: I am a food lover and travelaholic 👋👋👋
+- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> How to reach me sonlam7220@gmail.com  👋👋👋
+  
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamts72" alt="lamts72" /></a>
+  <img align="right" alt="Coding" width="300" height="30%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
+  </p>
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence**
+#### 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus) ![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat%20%EC%B6%9C%EC%B2%98:%20https://we-always-fight-with-code.tistory.com/177%20[Hello,%20world!:%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC]) ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120.svg?logo=css3&logoColor=white)
 
-- 📫 How to reach me **sonlam7220@gmail.com**
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 
-- ⚡ Fun fact **I am funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sơn-lâm-trịnh-b09094204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sơn-lâm-trịnh-b09094204" height="30" width="40" /></a>
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-316192.svg?logo=postgresql&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamts72&show_icons=true&locale=en&layout=compact" alt="lamts72" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamts72&show_icons=true&locale=en" alt="lamts72" /></p>
+![Git](https://img.shields.io/badge/Git-black?logo=git) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux) ![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lamts72&" alt="lamts72" /></p>
+<p><img align="left" width="400" height="80%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=lamts72&show_icons=true&locale=en&layout=compact" alt="lamts72" /></p>
+
+<p><img align="right" width="530" src="https://github-readme-stats.vercel.app/api?username=lamts72&show_icons=true&locale=en" alt="lamts72" /></p>
+
+<p><img align="center" width="400" height="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=lamts72&" alt="lamts72" /></p>
