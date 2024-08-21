@@ -1,5 +1,5 @@
 ### Hello👋, I'm LAM-TRINH(CHESSMAN) </h2>
-<p><em>Joint Master funding at <a href="https://hcmut.edu.vn/">Ho Chi Minh city University of Technology(HCMUT)</a>  and I focus on AI, learning about Machine Learning, Deep Learning and applying AI for Embedded System, IOT.</em></p>
+<p><em>Joint Master funding at <a href="https://hcmut.edu.vn/">Ho Chi Minh city University of Technology(HCMUT)</a>  and I focus on AI, deep dive into Machine Learning, Deep Learning field and produce AI for production on industry like Embedded System, IOT.</em></p>
 
 
 #### 🌐 Socials
