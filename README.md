@@ -27,7 +27,7 @@
 
 
 
-![Git](https://img.shields.io/badge/Git-black?logo=git) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux) ![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?logo=git) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux) ![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Colab](https://colab.research.google.com/assets/colab-badge.svg) ![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)
 
 <table>
   <tr>
