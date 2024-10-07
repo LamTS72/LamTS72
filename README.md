@@ -9,7 +9,7 @@
 
 #### 💫About Me :
 - <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> I’m currently research deeper **Machine Learning, Deep Learning** 👋👋👋
-- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20">  I’m looking to collaborate on **Artificial Intelligence** special on **NLP** ❤️❤️❤️
+- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20">  I’m looking to collaborate on **Artificial Intelligence** special on **NLP** 🌝🌝🌝
 - <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> Fun facts: I am a food lover and travelaholic 👋👋👋
 - <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> How to reach me sonlam7220@gmail.com  👋👋👋
   
