@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=lamts72&" alt="lamts72" />
+<!--       <img width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=lamts72&" alt="lamts72" /> -->
     </td>
   </tr>
 </table>
