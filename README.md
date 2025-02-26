@@ -1,5 +1,5 @@
 ### Hello👋, I'm LAM-TRINH(CHESSMAN) </h2>
-<p><em>Master student at <a href="https://hcmut.edu.vn/">Ho Chi Minh city University of Technology(HCMUT)</a>  and I focus on AI, deep dive into Machine Learning, Deep Learning field and produce AI for production on industry like Embedded System, IOT. Now, I dive into Natural Language Processing</em></p>
+<p><em>Master student at <a href="https://hcmut.edu.vn/"> Ho Chi Minh city University of Technology(HCMUT)</a>  and I work on Machine Learning, Deep Learning and Natural Language Processing. I also used to work with productions of Embedded System, IOT on industry. But now I focus on NLP/LLMs all time</em></p>
 
 
 #### 🌐 Socials
